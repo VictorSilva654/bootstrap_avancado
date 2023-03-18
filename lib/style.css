@@ -1,0 +1,14 @@
+h1 {
+    padding: 40px;
+}
+
+.row {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.col-sm-12,
+.col-md-6 {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
